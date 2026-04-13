@@ -18,6 +18,7 @@
     "data": [
         "data/delivery.xml",
         "views/stock_picking.xml",
+        "views/carrier_account_views.xml",
     ],
     "installable": True,
     "license": "AGPL-3",
